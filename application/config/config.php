@@ -362,7 +362,7 @@ $config['proxy_ips'] = '';
 Footer
 */
 $config['limit_data'] = '25';
-$config['nama_aplikasi_full'] = 'Sistem Informasi Manajemen - Pegawai';
+$config['nama_aplikasi_full'] = 'Sistem Informasi Manajemen';
 $config['nama_aplikasi_pendek'] = 'SIM';
 $config['nama_instansi'] = 'Pegawai';
 $config['alamat_instansi'] = 'Tangerang Kota';

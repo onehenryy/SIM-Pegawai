@@ -67,11 +67,12 @@
 	</div>
 	<?php } ?>
       <div class="hero-unit">
-        <h2>Selamat Datang di <?php echo $judul_lengkap.' '.$instansi; ?></h2>
+        <h2>Selamat Datang di <?php echo $judul_lengkap.' '.$instansi; ?></h2><br>
+        <img style="display: block; margin: 0 auto;"  src="<?php echo base_url(); ?>asset/img/logo.png"></img><br>
         <p>Sistem Informasi Manajemen Pegawai - merupakan sebuah aplikasi untuk melakukan manajemen data kepegawaian PT. XYZ. Silahkan masukkan username dan password anda untuk mulai untuk melakukan manajemen atau pengolahan data kepegawaian sesuai dengan hak akses yang anda miliki.</p>
         <p><a class="btn btn-primary btn-large">Pelajari Lebih Lanjut <i class="icon-circle-arrow-right icon-white"></i> </a></p>
       </div>
-
+      
 
       <footer class="well">
         <p><?php echo $credit; ?></p>
